@@ -9,4 +9,4 @@ In this individual part, GBDT is used for feature selection.
 
 4. two Jupyter notebooks to compare results: CTR Estimator(GBDT+LR)-with tuned parameters.ipynb, CTR Estimator(GBDT+LR).ipynb
 
-Dataset: the dataset of this task can be downloaded from https://drive.google.com/file/d/0B73mmT9K2b4EZkZacFVBRDJtdzQ/view 
+Dataset: the dataset of this task can be downloaded from https://drive.google.com/file/d/0B73mmT9K2b4EZkZacFVBRDJtdzQ/view
